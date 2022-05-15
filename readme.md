@@ -1,3 +1,3 @@
-I do software engineering in the gaming industry!
+Software Engineering :)!
 
 ![](https://komarev.com/ghpvc/?username=roeii&color=blue)
